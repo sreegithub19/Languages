@@ -20,16 +20,16 @@ Nanninda,
 nanna,
 nannalli,
 nannadhu,
-Nannodane
+Nannodane,
 Nannavu,
-Nannallina
+Nannallina,
 
 nannatta,
 nannanta,
 nannantaha,
 nannanthe,
 nannashtu,
-nanagintha
+nanagintha,
 
 <hr>
 <hr>
