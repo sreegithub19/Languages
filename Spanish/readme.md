@@ -96,6 +96,8 @@ Z z zeta
 <hr>
 <hr>
 
+3.
+
 ## Important links:
 
 1. 12,000 Spanish verbs:
@@ -118,3 +120,9 @@ Levels:
 
 <hr>
 <hr>
+
+4.
+
+## Duolingo:
+
+https://www.duolingo.com/learn
