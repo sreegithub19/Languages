@@ -11,6 +11,7 @@ https://storyweaver.org.in/stories/797-mola-mattu-aame
 
 ## Noun declensions:
 
+<pre>
 Naanu,
 Nanage,
 Nanagaagi,
@@ -30,6 +31,7 @@ nannantaha,
 nannanthe,
 nannashtu,
 nanagintha,
+</pre>
 
 <hr>
 <hr>
