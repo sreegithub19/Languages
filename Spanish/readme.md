@@ -2,6 +2,7 @@
 
 ## Verb with pronouns combined:
 
+<pre>
 Hablarme
 Hablarte
 Hablarse
@@ -14,11 +15,13 @@ Hablarla
 Hablarlas
 Hablarle
 Hablarles
+</pre>
 
 ### Chilean spanish:
 
 https://youtu.be/GnfI6cGltwg
 
+<pre>
 Hablarmelo
 Hablarmelos
 Hablarmela
@@ -43,6 +46,7 @@ Hablaroslo
 Hablaroslos
 Hablarosla
 Hablaroslas
+</pre>
 
 <hr>
 <hr>
@@ -53,9 +57,11 @@ Hablaroslas
 
 http://www.zadorspain.com/Spanish-vocabulary-beginners-alphabet.html
 
+<pre>
 Mayúsculas (Capital letters);
 Minúsculas. (Small letters);
 Pronunciación (Pronunciation) :
+
 A a a
 B b be
 C c ce
@@ -85,6 +91,7 @@ W w uve doble
 X x equis
 Y y y griega
 Z z zeta
+</pre>
 
 <hr>
 <hr>
@@ -97,6 +104,7 @@ Z z zeta
 2. comosediceeningles:
    https://comosediceeningles.org/correr-en-ingles
 
+<pre>
 Levels:
 A1.
 https://www.pdfdrive.com/preparaci%C3%B3n-al-dele-nivel-a1-e186778215.html
@@ -110,6 +118,8 @@ C1:
 https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-c1-nueva-edici%C3%B3n-d186845618.html
 C2:
 https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-c2-nueva-edici%C3%B3n-e187328261.html
+
+</pre>
 
 <hr>
 <hr>
