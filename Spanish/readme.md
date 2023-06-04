@@ -107,16 +107,12 @@ Z z zeta
 <pre>
 Levels:
 <a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-dele-nivel-a1-e186778215.html">A1</a>
-A2:
-https://www.pdfdrive.com/preparaci%C3%B3n-al-dele-nivel-a2-e186240251.html
-B1:
-https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-b1-e186462144.html
-B2:
-https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-b2-e186719499.html
-C1:
-https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-c1-nueva-edici%C3%B3n-d186845618.html
-C2:
-https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-c2-nueva-edici%C3%B3n-e187328261.html
+<a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-dele-nivel-a2-e186240251.html">A2</a>
+<a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-b1-e186462144.html">B1</a>
+<a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-b2-e186719499.html">B2</a>
+<a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-nivel-c1-nueva-edici%C3%B3n-d186845618.html">C1</a>
+<a href="https://www.pdfdrive.com/preparaci%C3%B3n-al-diploma-espa%C3%B1ol-dele-c2-nueva-edici%C3%B3n-e187328261.html">C2</a>
+
 
 </pre>
 
