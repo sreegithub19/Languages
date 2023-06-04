@@ -126,3 +126,11 @@ Levels:
 ## Duolingo:
 
 https://www.duolingo.com/learn
+
+<hr>
+<hr>
+
+5.
+
+## Spanish exams in India in 2023:
+https://www.languagenext.com/blog/spanish-proficiency-test/
