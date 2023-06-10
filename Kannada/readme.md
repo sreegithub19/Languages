@@ -1,8 +1,14 @@
 1.
 
-## Kannada stories:
+## Kannada documents links:
+
+### Stories:
 
 https://storyweaver.org.in/stories/797-mola-mattu-aame
+
+### Bhagavadgita:
+
+https://www.iskconbangalore.org/wp-content/uploads/2016/04/bhagavad-gita-yatharoopa.pdf
 
 <hr>
 <hr>

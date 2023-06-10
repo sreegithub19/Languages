@@ -126,3 +126,23 @@ Levels:
 ## Duolingo:
 
 https://www.duolingo.com/learn
+
+5.
+
+## Bhagavadgita:
+
+https://freehomedelivery.net/wp-content/uploads/2020/12/Srimad-Bhagavad-Gita-in-Spanish-Language-Govind-Gupta-freehomedelivery.net_.pdf
+
+6.
+
+## Harry Potter:
+
+<ol>
+<li><a href="https://bibliotecaia.ism.edu.ec/Repo-book/h/HarryPotterylaPiedraFilosofal.pdf">Part-1 - Harry Potter i la pedra filosofal. </a></li>
+<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkZXNjYXJnYXNjYXphZG9yZXNkZWxpYnJvc3xneDo3ZmY5MjIzYjAwNTdiZGZk">Part-2 - Harry Potter y la cámara secreta </a></li>
+<li><a href="https://tavapy.gov.py/biblioteca/wp-content/uploads/2022/03/RowlingJ-Harry-Potter-y-el-prisionero-de-Azkaban-III.pdf">Part-3 - Harry Potter i el pres d'Azkaban </a></li>
+<li><a href="https://usercontent.one/wp/www.puro-geek.com/wp-content/uploads/2021/11/Harry-Potter-y-el-caliz-de-fuego.pdf?media=1630018077">Part-4 - Harry Potter y el cáliz de fuego </a></li>
+<li><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkZXNjYXJnYXNjYXphZG9yZXNkZWxpYnJvc3xneDo3NjQ5ZDFhNGYyMDE0OWMx">Part-5 - Harry Potter y la Orden del Fénix </a></li>
+<li><a href="https://escuela73abasto.files.wordpress.com/2020/11/harry-potter-y-el-misterio-del-principe-j.-k.-rowling.pdf">Part-6 - Harry Potter y el misterio del príncipe </a></li>
+<li><a href="http://aplicaciones.bibliolatino.com/bitstream/bibliolatino/727/1/harry%20potter%20y%20las%20reliquias%20de%20la%20muerte.pdf">Part-7 - Harry Potter y las Reliquias de la Muerte </a></li>
+</ol>
