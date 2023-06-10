@@ -146,3 +146,9 @@ https://freehomedelivery.net/wp-content/uploads/2020/12/Srimad-Bhagavad-Gita-in-
 <li><a href="https://escuela73abasto.files.wordpress.com/2020/11/harry-potter-y-el-misterio-del-principe-j.-k.-rowling.pdf">Part-6 - Harry Potter y el misterio del príncipe </a></li>
 <li><a href="http://aplicaciones.bibliolatino.com/bitstream/bibliolatino/727/1/harry%20potter%20y%20las%20reliquias%20de%20la%20muerte.pdf">Part-7 - Harry Potter y las Reliquias de la Muerte </a></li>
 </ol>
+
+7.
+
+## Spanish exams in India in 2023:
+
+https://www.languagenext.com/blog/spanish-proficiency-test/
