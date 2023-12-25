@@ -12,3 +12,12 @@
 <li><a href="https://francaisenaction.files.wordpress.com/2017/09/harry-potter-6-le-prince-de-sang-mecc82lecc81.pdf">Part-6 - Harry Potter et le Prince de Sang-Mêlé </a></li>
 <li><a href="https://francaisenaction.files.wordpress.com/2017/09/harry-potter-7-les-reliques-de-la-mort.pdf">Part-7 - Harry Potter et les Reliques de la Mort </a></li>
 </ol>
+
+
+
+
+## Verbs conjugation:
+- https://www.verbix.com/languages/french
+- https://conjugator.reverso.net/conjugation-french.html
+- https://francais.lingolia.com/en/grammar/conjugator
+  
