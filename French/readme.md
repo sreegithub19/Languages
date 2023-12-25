@@ -21,3 +21,10 @@
 - https://conjugator.reverso.net/conjugation-french.html
 - https://francais.lingolia.com/en/grammar/conjugator
   
+## Verbs so far:
+- être ➔  to be
+- manger - to eat
+- aller - to go
+- voir - to see
+- revoir - to see again
+- 
