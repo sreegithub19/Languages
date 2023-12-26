@@ -33,4 +33,8 @@
 <li> parler - to speak
 <li> appeler - to call
 <li> avoir - to have
+<li> étudier - to study
+<li> habiter - to live
+<li> travailler - to work 
+ <li> 
 </ol>
