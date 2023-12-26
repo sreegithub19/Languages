@@ -155,3 +155,26 @@ https://freehomedelivery.net/wp-content/uploads/2020/12/Srimad-Bhagavad-Gita-in-
 ## Spanish exams in India in 2023:
 
 https://www.languagenext.com/blog/spanish-proficiency-test/
+
+
+8.
+
+## Verbs:
+<ol>
+   <li> Tener - to have
+   <li> elegir - to choose
+   <li> acostar - to lay down (to go to bed) </li> 
+   <li> salir - to leave </li>
+   <li> preferir - to prefer </li>
+   <li> sentir - to feel </li>
+   <li> disculpar - to excuse </li>
+   <li> ir - to go </li>
+   <li> gustar - to like </li>
+   <li> hacer - to do </li>
+   <li> nadar - to swim </li>
+   <li> ser - to be (permanent) </li>
+   <li> estar - to be (temporary , locations) </li>
+   
+</ol>
+
+<hr>
