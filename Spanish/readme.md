@@ -163,7 +163,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
 <ol>
    <li> Tener - to have
    <li> elegir - to choose
-   <li> acostar - to lay down (to go to bed) </li> 
+   <li> acostar - to lay down </li> 
    <li> salir - to leave </li>
    <li> preferir - to prefer </li>
    <li> sentir - to feel </li>
@@ -174,6 +174,36 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> nadar - to swim </li>
    <li> ser - to be (permanent) </li>
    <li> estar - to be (temporary , locations) </li>
+   <li> odiar - to hate </li>
+   <li> encantar / amar - to love </li>
+   <li> hablar - to speak </li> 
+   <li> visitar - to visit </li>
+   <li> disfrutar - to enjoy </li>
+   <li> necesitar - to need to </li>
+   <li> duchar - to shower </li>
+   <li> preferir - to prefer </li>
+   <li> poder - to be able to </li>
+   <li> comer - to eat </li>
+   <li> comprar - to buy </li>
+   <li> ver - to see </li>
+   <li> creer - to believe </li>
+   <li> empezar - to start </li>
+   <li> encontrar - to find </li>
+</ol>
+
+#### Reflexively used verbs:
+
+<ol> 
+   <li> acostarse - to go to bed </li>
+   <li> ducharse - to shower oneself </li>
+   
+</ol>
+
+#### Verbs used with "to" ("a") : 
+
+<ol>
+   <li> odiar - to hate - (odiar a) </li>
+   <li> ver - to see - (ver a) </li>
    
 </ol>
 
