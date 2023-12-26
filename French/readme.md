@@ -23,7 +23,7 @@
   
 ## Verbs so far:
 <ol>
-<li> être ➔  to be
+<li> être ➔  to be </li>
 <li> manger - to eat
 <li> aller - to go
 <li> voir - to see
