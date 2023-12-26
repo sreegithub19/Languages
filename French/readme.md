@@ -27,4 +27,8 @@
 - aller - to go
 - voir - to see
 - revoir - to see again
-- 
+- enchanter - to enchant
+- excuser - to excuse
+- parler - to speak
+- appeler - to call
+- avoir - to have
