@@ -22,13 +22,15 @@
 - https://francais.lingolia.com/en/grammar/conjugator
   
 ## Verbs so far:
-- être ➔  to be
-- manger - to eat
-- aller - to go
-- voir - to see
-- revoir - to see again
-- enchanter - to enchant
-- excuser - to excuse
-- parler - to speak
-- appeler - to call
-- avoir - to have
+<ol>
+<li> être ➔  to be
+<li> manger - to eat
+<li> aller - to go
+<li> voir - to see
+<li> revoir - to see again
+<li> enchanter - to enchant
+<li> excuser - to excuse
+<li> parler - to speak
+<li> appeler - to call
+<li> avoir - to have
+</ol>
