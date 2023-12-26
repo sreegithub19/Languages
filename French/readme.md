@@ -36,5 +36,5 @@
 <li> étudier - to study
 <li> habiter - to live
 <li> travailler - to work 
- <li> 
+<li> prendre - to take
 </ol>
