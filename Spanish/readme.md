@@ -236,6 +236,22 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> manejar - to drive </li>
    <li> cocinar - to cook </li>
    <li> cantar - to sing </li>
+   <li> amigar - to befriend </li>
+   <li> habitar - to live </li>
+   <li> colorear - to color </li>
+   <li> florar - to bloom </li>
+   <li> agraciar - to grace / to make (someone) look graceful </li>
+   <li> empequeñecer - to dwarf / to belittle </li>
+   <li> cansar - to tire out </li>
+   <li> aburrir - to bore </li>
+   <li> ocupar - to occupy </li>
+   <li> preocupar - to worry </li>
+   <li> verdecer - to turn green </li>
+   <li> vestir - to wear / to dress </li>
+   <li> escribir - to write </li>
+   <li> felicitar - to congratulate </li>
+   <li> telefonear - to call / to telephone </li>
+   
 </ol>
 
 #### Reflexively used verbs:
