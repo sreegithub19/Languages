@@ -248,7 +248,8 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> ocupar - to occupy </li>
    <li> preocupar - to worry </li>
    <li> verdecer - to turn green </li>
-   <li> azular - to color blue </li>
+   <li> azular - to color blue / to turn blue </li>
+   <li> amarillear - to turn yellow </li>
    <li> vestir - to wear / to dress </li>
    <li> escribir - to write </li>
    <li> felicitar - to congratulate </li>
@@ -262,6 +263,14 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> beber - to drink </li>
    <li> emocionar - to thrill </li>
    <li> focalizar - to focus </li>
+   <li> ganar - to win / to gain </li>
+   <li> contar - to count </li>
+   <li> divertir - to amuse </li>
+   <li> continuar - to continue </li>
+   <li> tomar - to take </li>
+   <li> hospitalizar - to hospitalize </li>
+   <li> favorecer - to favor </li>
+   <li> dormir - to sleep </li>
 </ol>
 
 #### Reflexively used verbs:
