@@ -156,6 +156,8 @@ https://freehomedelivery.net/wp-content/uploads/2020/12/Srimad-Bhagavad-Gita-in-
 
 https://www.languagenext.com/blog/spanish-proficiency-test/
 
+<hr>
+<hr>
 
 8.
 
@@ -265,5 +267,15 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    
 </ol>
 
+<hr>
 
+## Nouns with exceptions in gender : 
+
+Feminine:
+- foto - la (photo)
+
+Masculine:
+- agua - el (water)
+
+<hr>
 <hr>
