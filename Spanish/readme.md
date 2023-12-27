@@ -205,6 +205,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> perder - to lose </li>
    <li> probar - to try </li>
    <li> cerrar - to close </li>
+   <li> abrir - to open </li>
    <li> entender - to understand </li>
    <li> trabajar - to work </li>
    <li> interesar - to interest </li>
@@ -247,11 +248,20 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> ocupar - to occupy </li>
    <li> preocupar - to worry </li>
    <li> verdecer - to turn green </li>
+   <li> azular - to color blue </li>
    <li> vestir - to wear / to dress </li>
    <li> escribir - to write </li>
    <li> felicitar - to congratulate </li>
    <li> telefonear - to call / to telephone </li>
-   
+   <li> señorear - to master / to rule </li>
+   <li> padrear - to father </li>
+   <li> completar - to complete </li>
+   <li> ejercer - to exercise </li>
+   <li> sorprender - to surprise </li>
+   <li> enfermar - to fall ill / to get sick </li>
+   <li> beber - to drink </li>
+   <li> emocionar - to thrill </li>
+   <li> focalizar - to focus </li>
 </ol>
 
 #### Reflexively used verbs:
@@ -260,6 +270,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> acostarse - to go to bed </li>
    <li> ducharse - to shower oneself </li>
    <li> levantarse - to get up oneself </li>
+   <li> sentirse - to feel (se sienta) </li>
 </ol>
 
 #### Verbs used with "to" ("a") : 
@@ -283,7 +294,6 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> gustar - to like - (a ti te gusta) </li>
    <li> encantar - to love - (a ti te encanta) </li>
    <li> interesar - to interest - (te interesa) </li>
-   
 </ol>
 
 <hr>
@@ -295,6 +305,7 @@ Feminine:
 
 Masculine:
 - agua - el (water)
+- día - el (day)
 
 <hr>
 <hr>
