@@ -278,6 +278,17 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> medicar - to medicate </li>
    <li> negociar - to negotiate </li>
    <li> ignorar - to ignore </li>
+   <li> familiarizar - to acquaint / to familiarize </li>
+   <li> veranear - to spend the summer </li>
+   <li> decidir - to decide </li>
+   <li> enseñar - to teach </li>
+   <li> hambrear - to starve </li>
+   <li> freír - to fry </li>
+   <li> saludar - to greet </li>
+   <li> sangrar - to bleed </li>
+   <li> describir - to describe </li>
+   <li> recibir - to receive </li>
+   
 </ol>
 
 #### Reflexively used verbs:
@@ -318,9 +329,9 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
 
 Feminine:
 - foto - la (photo)
+- agua - el (water, but "el" is used)
 
 Masculine:
-- agua - el (water)
 - día - el (day)
 - problema - el (problem)
 
