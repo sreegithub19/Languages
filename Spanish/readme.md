@@ -288,7 +288,12 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> sangrar - to bleed </li>
    <li> describir - to describe </li>
    <li> recibir - to receive </li>
-   <li> demostrar - to demostrate </li>
+   <li> demostrar - to demonstrate </li>
+   <li> responsabilizar - to take responsibility </li>
+   <li> limpiar - to clean </li>
+   <li> lavar - to wash </li>
+   <li> terminar - to finish </li>
+   
 </ol>
 
 #### Reflexively used verbs:
@@ -298,6 +303,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> ducharse - to shower oneself </li>
    <li> levantarse - to get up oneself </li>
    <li> sentirse - to feel (se sienta) </li>
+   <li> lavarse - to wash oneself </li>
 </ol>
 
 #### Verbs used with "to" ("a") : 
