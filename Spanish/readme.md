@@ -232,7 +232,10 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> gastar - to spend (money) </li>
    <li> desayunar - to have breakfast </li>
    <li> almorzar - to have lunch </li>
-   
+   <li> saber - to know </li>
+   <li> manejar - to drive </li>
+   <li> cocinar - to cook </li>
+   <li> cantar - to sing </li>
 </ol>
 
 #### Reflexively used verbs:
