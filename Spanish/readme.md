@@ -162,6 +162,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
 ## Verbs:
 <ol>
    <li> Tener - to have
+   <li> llamar - to call </li>
    <li> elegir - to choose
    <li> acostar - to lay down </li> 
    <li> salir - to leave </li>
@@ -199,6 +200,36 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> venir - to come </li>
    <li> aprender - to learn </li>
    <li> caminar - to walk </li>
+   <li> perder - to lose </li>
+   <li> probar - to try </li>
+   <li> cerrar - to close </li>
+   <li> entender - to understand </li>
+   <li> trabajar - to work </li>
+   <li> interesar - to interest </li>
+   <li> pintar - to paint </li>
+   <li> cenar - to dine (to have dinner) </li>
+   <li> jugar - to play </li>
+   <li> buscar - to search </li>
+   <li> practicar - to practise </li>
+   <li> conocer - to know / to visit </li>
+   <li> tocar - to play (instrument) </li>
+   <li> partir - to split </li>
+   <li> volver - to return </li>
+   <li> ayudar - to help </li>
+   <li> dibujar - to draw </li>
+   <li> viajar - to travel </li>
+   <li> recordar - to remember </li>
+   <li> listar - to list </li>
+   <li> decir - to tell </li>
+   <li> examinar - to examine </li>
+   <li> poner - to put </li>
+   <li> levantar - to get up </li>
+   <li> leer - to read </li>
+   <li> correr - to run </li>
+   <li> pasar - to spend (time) </li>
+   <li> gastar - to spend (money) </li>
+   <li> desayunar - to have breakfast </li>
+   <li> almorzar - to have lunch </li>
    
 </ol>
 
@@ -207,7 +238,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
 <ol> 
    <li> acostarse - to go to bed </li>
    <li> ducharse - to shower oneself </li>
-   
+   <li> levantarse - to get up oneself </li>
 </ol>
 
 #### Verbs used with "to" ("a") : 
@@ -215,7 +246,24 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
 <ol>
    <li> odiar - to hate - (odiar a) </li>
    <li> ver - to see - (ver a) </li>
+   <li> jugar - to play - (jugar a) </li>
+</ol>
+
+#### Verbs used with "que" : 
+
+<ol>
+   <li> tener - to have - (tener que) </li>
    
 </ol>
+
+#### Verbs used passively : 
+
+<ol>
+   <li> gustar - to like - (a ti te gusta) </li>
+   <li> encantar - to love - (a ti te encanta) </li>
+   <li> interesar - to interest - (te interesa) </li>
+   
+</ol>
+
 
 <hr>
