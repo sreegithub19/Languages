@@ -189,6 +189,17 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> creer - to believe </li>
    <li> empezar - to start </li>
    <li> encontrar - to find </li>
+   <li> querer - to want </li>
+   <li> usar - to use </li>
+   <li> escuchar - to listen to / to hear </li>
+   <li> bailar- to dance </li>
+   <li> vivir - to live </li>
+   <li> mandar - to send </li>
+   <li> mirar - to look </li>
+   <li> venir - to come </li>
+   <li> aprender - to learn </li>
+   <li> caminar - to walk </li>
+   
 </ol>
 
 #### Reflexively used verbs:
