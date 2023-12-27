@@ -288,7 +288,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> sangrar - to bleed </li>
    <li> describir - to describe </li>
    <li> recibir - to receive </li>
-   
+   <li> demostrar - to demostrate </li>
 </ol>
 
 #### Reflexively used verbs:
