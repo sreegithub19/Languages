@@ -271,6 +271,13 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> hospitalizar - to hospitalize </li>
    <li> favorecer - to favor </li>
    <li> dormir - to sleep </li>
+   <li> estacionar - to park / to station </li>
+   <li> llegar - to arrive / to reach </li>
+   <li> enojar - to anger / to annoy </li>
+   <li> nombrar - to name </li>
+   <li> medicar - to medicate </li>
+   <li> negociar - to negotiate </li>
+   <li> ignorar - to ignore </li>
 </ol>
 
 #### Reflexively used verbs:
@@ -315,6 +322,7 @@ Feminine:
 Masculine:
 - agua - el (water)
 - día - el (day)
+- problema - el (problem)
 
 <hr>
 <hr>
