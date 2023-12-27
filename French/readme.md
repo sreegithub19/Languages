@@ -37,4 +37,5 @@
 <li> habiter - to live
 <li> travailler - to work 
 <li> prendre - to take
+<li> remercier - to thank </li>
 </ol>
