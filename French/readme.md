@@ -38,4 +38,9 @@
 <li> travailler - to work 
 <li> prendre - to take
 <li> remercier - to thank </li>
+<li> voiturer - to drive (a car) / to transport </li>
+<li> fatiguer - to make tired </li>
+<li> vouloir - to want </li>
+<li> boire - to drink </li>
+<li> </li>
 </ol>
