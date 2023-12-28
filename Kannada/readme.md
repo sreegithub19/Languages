@@ -18,25 +18,25 @@ https://www.iskconbangalore.org/wp-content/uploads/2016/04/bhagavad-gita-yatharo
 ## Noun declensions:
 
 <pre>
-Naanu,
-Nanage,
-Nanagaagi,
-Nannondige,
-Nanagoskara,
-Nanninda,
-nanna,
-nannalli,
-nannadhu,
-Nannodane,
-Nannavu,
-Nannallina,
+Naanu
+Nanage
+Nanagaagi
+Nannondige
+Nanagoskara
+Nanninda
+nanna
+nannalli
+nannadhu
+Nannodane
+Nannavu
+Nannallina
 
-nannatta,
-nannanta,
-nannantaha,
-nannanthe,
-nannashtu,
-nanagintha,
+nannatta
+nannanta
+nannantaha
+nannanthe
+nannashtu
+nanagintha
 </pre>
 
 <hr>
