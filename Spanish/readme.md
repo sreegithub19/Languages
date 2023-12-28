@@ -293,6 +293,16 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> limpiar - to clean </li>
    <li> lavar - to wash </li>
    <li> terminar - to finish </li>
+   <li> formar - to form </li>
+   <li> expresar - to express </li>
+   <li> explorar - to explore </li>
+   <li> reservar - to reserve </li>
+   <li> preservar - to preserve </li>
+   <li> bañar - to bathe </li>
+   <li> aguar - to water </li>
+   <li> portar - to carry </li>
+   <li> omitir - to omit / skip </li>
+   <li> verificar - to verify / check </li>
    
 </ol>
 
@@ -304,6 +314,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> levantarse - to get up oneself </li>
    <li> sentirse - to feel (se sienta) </li>
    <li> lavarse - to wash oneself </li>
+   <li> bañarse - to bathe oneself </li>
 </ol>
 
 #### Verbs used with "to" ("a") : 
