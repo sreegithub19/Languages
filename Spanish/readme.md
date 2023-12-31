@@ -300,9 +300,19 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> preservar - to preserve </li>
    <li> bañar - to bathe </li>
    <li> aguar - to water </li>
-   <li> portar - to carry </li>
+   <li> portar , llevar - to carry </li>
    <li> omitir - to omit / skip </li>
    <li> verificar - to verify / check </li>
+   <li> traer - to bring </li>
+   <li> transportar - to transport </li>
+   <li> sentar - to sit </li>
+   <li> esperar - to wait </li>
+   <li> pedir - to ask </li>
+   <li> proponer / (pedir matrimonio) - to propose </li>
+   <li> preguntar - to question </li>
+   <li> conversar - to converse </li>
+   <li> montar - to mount / ride </li>
+   <li> llenar - to fill </li>
    
 </ol>
 
@@ -315,6 +325,7 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> sentirse - to feel (se sienta) </li>
    <li> lavarse - to wash oneself </li>
    <li> bañarse - to bathe oneself </li>
+   <li> sentarse - to sit oneself </li>
 </ol>
 
 #### Verbs used with "to" ("a") : 
