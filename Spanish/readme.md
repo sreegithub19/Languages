@@ -194,7 +194,8 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> encontrar - to find </li>
    <li> querer - to want </li>
    <li> usar - to use </li>
-   <li> escuchar - to listen to / to hear </li>
+   <li> escuchar - to listen to </li>
+   <li> oir - to hear </li>
    <li> bailar- to dance </li>
    <li> vivir - to live </li>
    <li> mandar - to send </li>
@@ -313,7 +314,15 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> conversar - to converse </li>
    <li> montar - to mount / ride </li>
    <li> llenar - to fill </li>
-   
+   <li> cambiar - to change </li>
+   <li> apagar - to turn off </li>
+   <li> aceptar - to accept </li>
+   <li> vender - to sell </li>
+   <li> caber - to fit </li>
+   <li> caer - to fall </li>
+   <li> dar - to give</li>
+   <li> cortar - to cut </li>
+   <li> enviar - to send </li>
 </ol>
 
 #### Reflexively used verbs:
