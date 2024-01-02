@@ -198,7 +198,8 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> oir - to hear </li>
    <li> bailar- to dance </li>
    <li> vivir - to live </li>
-   <li> mandar - to send </li>
+   <li> mandar - to send (formal / mandatory) </li>
+   <li> enviar - to send (informal) </li>
    <li> mirar - to look </li>
    <li> venir - to come </li>
    <li> aprender - to learn </li>
@@ -322,7 +323,6 @@ https://www.languagenext.com/blog/spanish-proficiency-test/
    <li> caer - to fall </li>
    <li> dar - to give</li>
    <li> cortar - to cut </li>
-   <li> enviar - to send </li>
 </ol>
 
 #### Reflexively used verbs:
