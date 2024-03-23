@@ -1,3 +1,5 @@
+0. Duolingo link : https://www.duolingo.com/profile/SreedharK3
+<hr>
 1.
 
 ## Verb with pronouns combined:
