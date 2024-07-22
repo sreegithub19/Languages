@@ -4,8 +4,13 @@
   - nő : woman
   - lány : girl
   - sör : beer
+  - bor : wine
   - alma : apple
   - fiú : boy
+  - autó : car
+  - pohár : glass (drinking glass)
+  - lámpa : lamp
+  - férfi : man
 
 
 
@@ -26,11 +31,16 @@
 ## Adjectives
 - List:
   - Nagy : big
-  - 
+  - kicsi : small
 
 <hr>
 <hr>
 
 ## Conjunctions:
 - List:
-  -  és : and  
+  -  és : and
+ 
+## Articles:
+- List:
+  - egy : a/an/one
+  - a / az : the
