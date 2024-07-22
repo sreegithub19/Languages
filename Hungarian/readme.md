@@ -1,6 +1,11 @@
 ## Nouns
+- List:
+  - 
 
 
+
+<hr>
+<hr>
 
 ## Verbs
 - Links:
