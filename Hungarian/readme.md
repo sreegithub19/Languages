@@ -1,6 +1,11 @@
 ## Nouns
 - List:
-  - f
+  - víz : water
+  - nő : woman
+  - lány : girl
+  - sör : beer
+  - alma : apple
+  - fiú : boy
 
 
 
@@ -13,3 +18,19 @@
   - 
  
 - List:
+
+
+<hr>
+<hr>
+
+## Adjectives
+- List:
+  - Nagy : big
+  - 
+
+<hr>
+<hr>
+
+## Conjunctions:
+- List:
+  -  és : and  
